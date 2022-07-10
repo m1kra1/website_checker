@@ -1,5 +1,5 @@
 
-import os
+from os import system
 import subprocess
 from function import pingURL
 from function import fileHandler
